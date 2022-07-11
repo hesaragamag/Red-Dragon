@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 
+global.ig = global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
